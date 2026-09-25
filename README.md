@@ -30,7 +30,7 @@
 ## 🖼️ Visual Showcase
 
 <div align="center">
-  <img src="./public/tat/main.png" alt="Taut Landing Page & Creator Bio" width="100%" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.15);" />
+  <img src="./tat-20260925T180514Z-1-001/tat/main.PNG" alt="Taut Landing Page & Creator Bio" width="100%" style="border-radius: 16px; box-shadow: 0 20px 40px rgba(0,0,0,0.15);" />
 </div>
 
 <br/>
@@ -39,19 +39,19 @@
 
 | **1. Creator Dashboard & Links** | **2. Presets & Theme Customizer** |
 | :---: | :---: |
-| <img src="./public/tat/1.png" width="460" alt="Creator Dashboard" /> | <img src="./public/tat/2.png" width="460" alt="Theme Selector" /> |
+| <img src="./tat-20260925T180514Z-1-001/tat/1.PNG" width="460" alt="Creator Dashboard" /> | <img src="./tat-20260925T180514Z-1-001/tat/2.PNG" width="460" alt="Theme Selector" /> |
 
 | **3. Micro-Store & Digital Products** | **4. Real-Time Insights & Analytics** |
 | :---: | :---: |
-| <img src="./public/tat/3.png" width="460" alt="Product Storefront" /> | <img src="./public/tat/4.png" width="460" alt="Analytics Dashboard" /> |
+| <img src="./tat-20260925T180514Z-1-001/tat/3.PNG" width="460" alt="Product Storefront" /> | <img src="./tat-20260925T180514Z-1-001/tat/4.PNG" width="460" alt="Analytics Dashboard" /> |
 
 | **5. Digital Business Cards & Wallet** | **6. Meta & Instagram Auto-Reply** |
 | :---: | :---: |
-| <img src="./public/tat/5.png" width="460" alt="Digital Business Cards" /> | <img src="./public/tat/6.png" width="460" alt="Instagram Auto Reply" /> |
+| <img src="./tat-20260925T180514Z-1-001/tat/5.PNG" width="460" alt="Digital Business Cards" /> | <img src="./tat-20260925T180514Z-1-001/tat/6.PNG" width="460" alt="Instagram Auto Reply" /> |
 
 | **7. Multi-Taut Page Manager** | **8. Figma-Grade Visual Studio (Dark)** |
 | :---: | :---: |
-| <img src="./public/tat/7.png" width="460" alt="Page Manager" /> | <img src="./public/tat/9.png" width="460" alt="Figma Studio Dark" /> |
+| <img src="./tat-20260925T180514Z-1-001/tat/7.PNG" width="460" alt="Page Manager" /> | <img src="./tat-20260925T180514Z-1-001/tat/9.PNG" width="460" alt="Figma Studio Dark" /> |
 
 </div>
 
